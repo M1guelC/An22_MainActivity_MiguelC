@@ -1,0 +1,19 @@
+{
+  "name": "s32-36",
+  "version": "1.0.0",
+  "description": "Mini Act",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Cervantes",
+  "license": "ISC",
+  "dependencies": {
+    "auth": "^0.0.9",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.2"
+  }
+}
